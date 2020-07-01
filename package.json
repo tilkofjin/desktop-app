@@ -1,0 +1,16 @@
+{
+  "name": "desktop-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nw": "^0.46.3-sdk",
+    "nw-builder": "^3.5.7"
+  }
+}
